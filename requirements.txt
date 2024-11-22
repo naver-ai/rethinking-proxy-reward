@@ -1,0 +1,9 @@
+accelerate==0.23.0
+datasets==2.14.6
+deepspeed==0.12.2
+flash-attn==2.5.0
+trl==0.7.4
+torch==2.1.0
+peft==0.6.1
+rouge_score
+alpaca-eval==0.6.5
